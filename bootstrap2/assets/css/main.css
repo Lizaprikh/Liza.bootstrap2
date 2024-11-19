@@ -1,0 +1,144 @@
+html, body {
+    height: 100%;
+}
+body{
+    min-width: 320px;
+    font-family: "Cormorant Garamond", serif;
+    background-color: black;
+    
+      
+}
+.vhod{
+    color: #CDAA7D;
+}
+.glavn{
+    margin-top: -10vw;
+}
+.men{
+    background-color: none;
+    border-bottom: white solid 0.05vw;
+    padding-left: 12vw;
+    margin-right: 14vw;
+    margin-left: 14vw;
+    li{
+        margin-left: 2vw;
+    }
+}
+.text{
+    font-size: 4vw;
+    margin-top: -32vw;
+}
+.sek1{
+    margin-top: 20vw;
+}
+.z{
+    margin-left: 47vw;
+    width: 4.17vw;
+    height: 3.33vw;
+}
+.text2{
+   font-size: 1.41vw;
+   margin-top: 3vw;
+}
+.ysl{
+    font-size: 5.21vw; 
+    margin-top: 7vw;
+}
+.claidr1{ 
+    width: 30.16vw;
+    height: 22.86vw;
+    margin-left: 35vw;
+    margin-top: 3vw;
+}
+.claidr2{ 
+    width: 30.16vw;
+    height: 22.86vw;
+    margin-left: 35vw;
+    margin-top: 3vw;
+}
+.claidr3{ 
+    width: 30.16vw;
+    height: 22.86vw;
+    margin-left: 35vw;
+    margin-top: 3vw;
+}
+.claidr4{ 
+    width: 30.16vw;
+    height: 22.86vw;
+    margin-left: 35vw;
+    margin-top: 3vw;
+}
+.claidr5{ 
+    width: 30.16vw;
+    height: 22.86vw;
+    margin-left: 35vw;
+    margin-top: 3vw;
+}
+.claidr6{ 
+    width: 30.16vw;
+    height: 22.86vw;
+    margin-left: 35vw;
+    margin-top: 3vw;
+}
+.cosmetics1{
+    margin-left: 18vw;
+    margin-top: 20vw;
+    width: 67.50vw;
+    height: 7.50vw;
+}
+.text2{
+    margin-top: 10vw;
+    font-size: 2.50vw;
+}
+
+.okno1{
+    margin-top: 5%;
+}
+.pokaz{
+    color: #CDAA7D;
+}
+.slov{
+    margin-left: 24vw;
+    font-size: 1.25vw;
+    border: none;
+}
+.vse{
+    margin-left: 5vw;
+    margin-bottom: 0vw;
+}
+.vse2{
+    margin-bottom: 0vw;
+    margin-left: 5vw;
+    margin-top: 5vw;
+}
+.img1{
+    margin-top: 5vw;
+}
+                
+.polos{
+    margin-top: 1vw;
+    padding-top: 15vw;
+    border-bottom: white solid 0.03vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    border-top: white solid 0.03vw;
+    width: 78vw;
+    height: 10vw;
+}
+.logo2{
+    margin-top: -22vw;
+    margin-left: 11vw;
+}
+.kon1{
+    margin-top: -13vw;
+    margin-left: 25vw;
+    font-size: 0.94vw;
+}
+.kon2{
+    margin-top: -6.5vw;
+    margin-left: 52vw;
+    font-size: 0.94vw;
+}
+
+
+

@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+}
+body{
+    min-width: 320px;
+    font-family: "Cormorant Garamond", serif;
+    background-color: black;
+}
+.knopka{
+    background-color: #898989;
+}
+.vhod{
+    margin-top: -3vw;
+    font-size: 1.5vw;
+}
+
+
+
+
+

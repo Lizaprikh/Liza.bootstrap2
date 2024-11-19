@@ -1,0 +1,140 @@
+html, body {
+    height: 100%;
+}
+body{
+    min-width: 320px;
+    font-family: "Cormorant Garamond", serif;
+    background-color: black;
+}
+.vhod{
+    color: #CDAA7D;
+}
+.glavn{
+    margin-top: -10vw;
+}
+.men{
+    background-color: none;
+    border-bottom: white solid 0.05vw;
+    padding-left: 12vw;
+    margin-right: 14vw;
+    margin-left: 14vw;
+    li{
+        margin-left: 2vw;
+    }
+}
+.text1{
+    margin-top: 2vw;
+    font-size: 2.50vw;
+}
+.Knopka2{
+    margin-left: 37vw;
+    margin-top: 0.3vw;
+    left: 40%;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    padding-top: 0.3vw;
+    padding-bottom: 0.3vw;
+    background-color: white;
+}
+.prim{
+    margin-left: 12vw;
+    font-size: 1.67vw;
+}
+.text6{
+    font-size: 2.08vw;
+    
+}
+.foto1{
+    margin-left: 7vw;
+    margin-top: 3vw;
+    width: 33.13vw;
+    height: 27.92vw
+}
+.foto2{
+    margin-left: 52vw;
+    margin-top: 8vw;
+    width: 33.13vw;
+    height: 27.92vw
+}
+.foto3{
+    margin-left: 14vw;
+    margin-top: 8vw;
+    width: 33.13vw;
+    height: 27.92vw
+}
+.t1{
+   font-size: 1.41vw;
+   margin-top: -27vw;
+   margin-left: 55vw;
+}
+.t2{
+    font-size: 1.41vw;
+    margin-top: 3.5vw;
+    margin-left: 55vw;
+ }
+ .t3{
+    font-size: 1.41vw;
+    margin-top: 3.5vw;
+    margin-left: 55vw;
+ }
+ .t4{
+    font-size: 1.41vw;
+    margin-top: 3.5vw;
+    margin-left: 55vw;
+ }
+.t11{
+    font-size: 0.94vw;
+    margin-left: 55vw;
+    margin-top: -1.5vw;
+    border-bottom: white solid 0.03vw;
+    margin-right: 15vw;
+}
+.vset1{
+    margin-top: 1vw;
+}
+.vset2{
+    margin-top: 1vw;
+    margin-left: -41vw;
+}
+.vset3{
+    margin-top: 1vw;
+    margin-left: 0.1vw;
+}
+.t12{
+    font-size: 0.94vw;
+    margin-left: 55vw;
+    margin-top: -1.5vw;
+    border-bottom: white solid 0.03vw;
+    margin-right: 56vw;
+}
+.t13{
+    font-size: 0.94vw;
+    margin-left: 55vw;
+    margin-top: -1.5vw;
+    border-bottom: white solid 0.03vw;
+    margin-right: 15vw;
+}
+.polos{
+    margin-top: 10vw;
+    padding-top: 15vw;
+    border-bottom: white solid 0.03vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    border-top: white solid 0.03vw;
+    width: 78vw;
+    height: 10vw;
+}
+.logo2{
+    margin-top: -22vw;
+    margin-left: 11vw;
+}
+.kon1{
+    margin-top: -13vw;
+    margin-left: 25vw;
+    font-size: 0.94vw;
+}
+.kon2{
+    margin-top: -6.5vw;
+    margin-left: 52vw;
+    font-size: 0.94vw;
+}
