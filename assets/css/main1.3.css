@@ -1,0 +1,61 @@
+html, body {
+    height: 100%;
+}
+body{
+    min-width: 320px;
+    font-family: "Cormorant Garamond", serif;
+    background-color: black;
+    
+      
+}
+.vhod{
+    color: #CDAA7D;
+}
+.glavn{
+    margin-top: -10vw;
+}
+.men{
+    background-color: none;
+    border-bottom: white solid 0.05vw;
+    padding-left: 12vw;
+    margin-right: 14vw;
+    margin-left: 14vw;
+    li{
+        margin-left: 2vw;
+    }
+}
+.text1{
+    font-size: 2.50vw;
+    margin-top: 3vw;
+}
+.kar{
+    margin-left: 9vw;
+    margin-right: 3vw;
+    margin-top: 3vw;
+    width: 67.50vw;
+    height: 30vw;
+}
+.polos{
+    margin-top: 10vw;
+    padding-top: 15vw;
+    border-bottom: white solid 0.03vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    border-top: white solid 0.03vw;
+    width: 78vw;
+    height: 10vw;
+}
+.logo2{
+    margin-top: -22vw;
+    margin-left: 11vw;
+}
+.kon1{
+    margin-top: -13vw;
+    margin-left: 25vw;
+    font-size: 0.94vw;
+}
+.kon2{
+    margin-top: -6.5vw;
+    margin-left: 52vw;
+    font-size: 0.94vw;
+}
